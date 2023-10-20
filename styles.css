@@ -1,0 +1,38 @@
+body {
+    font-family: 'Overpass', sans-serif;
+        background-color: #003559;
+        color: #FBFBFF;
+        font-size: 18pt;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 4em;
+    font-style: ;
+}
+
+
+h2 {
+
+    font-size: 1.5em;
+    font-style: italic;
+    
+}
+
+.bg_bistro {
+    background-image: url(img/sqnce_banner.jpeg);
+
+    background-size: cover;
+    background-position: center;
+    color: #FFE156;
+    height: 45vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+main {
+    padding-top: 5%;
+}
